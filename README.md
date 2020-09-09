@@ -1,7 +1,7 @@
 # BobsStoreSNL
 Student Demo Project based on Adam Freeman's Book PRO ASP.NET Core 3 8th Edition
 
-##Create Solution and Project
+## Create Solution and Project
 
 dotnet new globaljson --sdk-version 3.1.101 --output BobsStoreSln/OutdoorProducts
 dotnet new web --no-https --output BobsStoreSln/OutdoorProducts --framework netcoreapp3.1
