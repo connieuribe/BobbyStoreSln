@@ -1,4 +1,4 @@
-# BobsStoreSNL
+# BobbyStoreSNL
 Student Demo Project based on Adam Freeman's Book PRO ASP.NET Core 3 8th Edition
 
 ## Create Solution and Project
