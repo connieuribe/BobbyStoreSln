@@ -10,3 +10,5 @@ dotnet sln BobsStoreSln add BobsStoreSln/OutdoorProducts
 dotnet new xunit -o BobsStoreSln/OutdoorProducts.Tests --framework netcoreapp3.1
 dotnet sln BobsStoreSln add BobsStoreSln/OutdoorProducts.Tests 
 dotnet add BobsStoreSln/OutdoorProducts.Tests reference BobsStoreSln/OutdoorProducts
+
+Link: https://www.apress.com/gp/book/9781484254394.
