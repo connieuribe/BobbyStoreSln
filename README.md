@@ -15,4 +15,4 @@ Link: https://www.apress.com/gp/book/9781484254394.
 
 
 <\br>
-![Progress-Check-step 2](step-2.PNG)
+![Progress Check step 2](Step-2.PNG)
