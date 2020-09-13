@@ -14,5 +14,5 @@ dotnet add BobsStoreSln/OutdoorProducts.Tests reference BobsStoreSln/OutdoorProd
 Link: https://www.apress.com/gp/book/9781484254394.
 
 
-<\br>
+
 ![Progress](Step2.PNG)
