@@ -10,7 +10,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.EntityFrameworkCore;
 using OutdoorProducts.Models;
-
+using System.Runtime.InteropServices.ComTypes;
 
 namespace OutdoorProducts
 {
@@ -42,10 +42,10 @@ namespace OutdoorProducts
             app.UseStaticFiles();
 
             app.UseRouting();
-            app.UseEndpoints(endpoints =>
-            {
-                endpoints.MapControllerRoute("pagination", "Products/Page{productPage}", 
-                    new { Controller = "Home", action = "Index" });
+            app.UseEndpoints(endpoints => {
+                endpoints.MapControllerRoute("pagination",
+                "Products/Page{productPage}",
+                new { Controller = "Home", action = "Index" });
                 endpoints.MapDefaultControllerRoute();
             });
             SeedData.EnsurePopulated(app);
