@@ -14,5 +14,15 @@ dotnet add BobsStoreSln/OutdoorProducts.Tests reference BobsStoreSln/OutdoorProd
 Link: https://www.apress.com/gp/book/9781484254394.
 
 
-
+## Incorporating the cart feature
 ![Progress](Step2.PNG)
+![Buttons](SportsStore_Navigation.PNG)
+![CartPage](SportsStore_Navigation2.PNG)
+![AddToCart](SportsStore_Navigation3.PNG)
+![Tests](SportsStore_Navigation4.PNG)
+
+## Completing Cart
+![CompletingCart](SportsStore_CompletingtheCart.PNG)
+![CompletingCart2](SportsStore_CompletingtheCart2.PNG)
+![CompletingCart3](SportsStore_CompletingtheCart3.PNG)
+![CartTest](SportsStore_CompletingtheCart4.PNG)
