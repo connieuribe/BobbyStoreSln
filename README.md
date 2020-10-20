@@ -26,3 +26,6 @@ Link: https://www.apress.com/gp/book/9781484254394.
 ![CompletingCart2](SportsStore_CompletingtheCart2.PNG)
 ![CompletingCart3](SportsStore_CompletingtheCart3.PNG)
 ![CartTest](SportsStore_CompletingtheCart4.PNG)
+
+## Administration
+![admin](StoreAdministration.PNG)
